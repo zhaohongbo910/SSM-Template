@@ -1,0 +1,12 @@
+0:0:0:0:0:0:0:1 - - [17/Aug/2020:22:41:39 +0800] "GET / HTTP/1.1" 200 1422 http-bio-8080-exec-1 62
+0:0:0:0:0:0:0:1 - - [17/Aug/2020:22:41:39 +0800] "GET /static/plugins/build/js/login.js HTTP/1.1" 200 816 http-bio-8080-exec-5 31
+0:0:0:0:0:0:0:1 - - [17/Aug/2020:22:41:39 +0800] "GET /static/plugins/layui/layui.js HTTP/1.1" 200 6615 http-bio-8080-exec-4 31
+0:0:0:0:0:0:0:1 - - [17/Aug/2020:22:41:39 +0800] "GET /static/plugins/layui/css/layui.css HTTP/1.1" 200 60700 http-bio-8080-exec-3 39
+0:0:0:0:0:0:0:1 - - [17/Aug/2020:22:41:39 +0800] "GET /static/plugins/build/css/login.css HTTP/1.1" 200 658 http-bio-8080-exec-2 36
+0:0:0:0:0:0:0:1 - - [17/Aug/2020:22:41:39 +0800] "GET /static/plugins/layui/lay/modules/form.js HTTP/1.1" 200 8711 http-bio-8080-exec-8 3
+0:0:0:0:0:0:0:1 - - [17/Aug/2020:22:41:39 +0800] "GET /static/plugins/layui/lay/modules/layer.js HTTP/1.1" 200 22068 http-bio-8080-exec-8 6
+0:0:0:0:0:0:0:1 - - [17/Aug/2020:22:41:39 +0800] "GET /static/plugins/layui/css/modules/layer/default/layer.css?v=3.1.1 HTTP/1.1" 200 14430 http-bio-8080-exec-8 4
+0:0:0:0:0:0:0:1 - - [17/Aug/2020:22:41:39 +0800] "GET /static/plugins/layui/lay/modules/jquery.js HTTP/1.1" 200 97656 http-bio-8080-exec-9 3
+0:0:0:0:0:0:0:1 - - [17/Aug/2020:22:41:41 +0800] "GET /login/getVerifyCode HTTP/1.1" 200 6069 http-bio-8080-exec-6 1722
+0:0:0:0:0:0:0:1 - - [17/Aug/2020:22:42:18 +0800] "POST /login/tologin HTTP/1.1" 500 524 http-bio-8080-exec-6 890
+0:0:0:0:0:0:0:1 - - [17/Aug/2020:22:42:18 +0800] "GET /static/plugins/layui/css/modules/layer/default/icon.png HTTP/1.1" 200 11493 http-bio-8080-exec-9 3
